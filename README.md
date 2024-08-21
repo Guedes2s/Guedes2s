@@ -1,5 +1,4 @@
-
-# Olá! Me chamo Emilly. 
+Olá! Me chamo Emilly. 
 
 • Cursando T.I 🖥️
 
